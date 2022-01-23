@@ -1,1 +1,3 @@
-<h1>Não copiar tudo!</h1>
+<h1>•Leia!</h1>
+<h2>→Não copiar tudo!</h2>
+<h2>→Mude nome de variaveis para não ser igual dos outros!</h2>
