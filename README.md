@@ -3,4 +3,4 @@
 <h2>→Mude nome de variaveis para não ser igual dos outros!</h2>
 
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Baixar Todas as atividades aqui!](https://github.com/ldavu/todas-atividades/releases/download/atividades/Atividades.rar)
